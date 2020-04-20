@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Paris",
+        "coords": [
+            48.8566,
+            2.3522
+        ],
+        "size": 100
+    },
+    {
+        "name": "Bois-Colombes",
+        "coords": [
+            48.9174,
+            2.2697
+        ],
+        "size": 100
+    },
+    {
+        "name": "Lyon",
+        "coords": [
+            45.7640,
+            4.8357
+        ],
+        "size": 100
+    },
+    {
+        "name": "Lille",
+        "coords": [
+            50.6292,
+            3.0573
+        ],
+        "size": 100
+    },
+    {
+        "name": "Saint-Gervais-les-Bains",
+        "coords": [
+            45.8920,
+            6.7122
+        ],
+        "size": 100
+    },
+    {
+        "name": "Rueil-Malmaison",
+        "coords": [
+            48.8828,
+            2.1769
+        ],
+        "size": 100
+    },
+    {
+        "name": "Gardermoen",
+        "coords": [
+            60.1976,
+            11.1004
+        ],
+        "size": 100
+    },
+    {
+        "name": "La Garenne-Colombes",
+        "coords": [
+            48.9065,
+            2.2441
+        ],
+        "size": 100
+    },
+    {
+        "name": "Colombes",
+        "coords": [
+            48.9221,
+            2.2533
+        ],
+        "size": 100
+    },
+    {
+        "name": "Morzine",
+        "coords": [
+            46.1792,
+            6.7089
+        ],
+        "size": 100
+    },
+    {
+        "name": "Alfortville",
+        "coords": [
+            48.8009,
+            2.4223
+        ],
+        "size": 100
+    },
+    {
+        "name": "Pantin",
+        "coords": [
+            48.8945,
+            2.4096
+        ],
+        "size": 100
+    },
+    {
+        "name": "Nanterre",
+        "coords": [
+            48.8924,
+            2.2153
+        ],
+        "size": 100
+    },
+    {
+        "name": "Montpellier",
+        "coords": [
+            43.6108,
+            3.8767
+        ],
+        "size": 100
+    },
+    {
+        "name": "Courbevoie",
+        "coords": [
+            48.9006,
+            2.2593
+        ],
+        "size": 100
+    },
+    {
+        "name": "Tourcoing",
+        "coords": [
+            50.7250,
+            3.1621
+        ],
+        "size": 100
+    },
+    {
+        "name": "Essert-Romand",
+        "coords": [
+            46.2010,
+            6.6713
+        ],
+        "size": 100
+    },
+    {
+        "name": "Bordeaux",
+        "coords": [
+            44.8637064,
+            -0.6563522
+        ],
+        "size": 100
+    },
+    {
+        "name": "Tilburg",
+        "coords": [
+            51.5606,
+            5.0919
+        ],
+        "size": 100
+    },
+    {
+        "name": "Taninges",
+        "coords": [
+            46.1068,
+            6.5911
+        ],
+        "size": 100
+    },
+    {
+        "name": "Perpignan",
+        "coords": [
+            42.6887,
+            2.8948
+        ],
+        "size": 100
+    },
+    {
+        "name": "Saint-Josse-ten-Noode",
+        "coords": [
+            50.8538,
+            4.3705
+        ],
+        "size": 100
+    },
+    {
+        "name": "Puteaux",
+        "coords": [
+            48.8847,
+            2.2396
+        ],
+        "size": 100
+    },
+    {
+        "name": "Grenoble",
+        "coords": [
+            45.1885,
+            5.7245
+        ],
+        "size": 100
+    },
+    {
+        "name": "Archamps",
+        "coords": [
+            46.1352,
+            6.1310
+        ],
+        "size": 100
+    },
+    {
+        "name": "Dommartin-les-Remiremont",
+        "coords": [
+            47.9998,
+            6.6434
+        ],
+        "size": 100
+    },
+    {
+        "name": "Contamine-sur-Arve",
+        "coords": [
+            46.1281,
+            6.3425
+        ],
+        "size": 100
+    },
+    {
+        "name": "Les Houches",
+        "coords": [
+            45.8904,
+            6.7987
+        ],
+        "size": 100
+    },
+    {
+        "name": "Marigny-les-Usages",
+        "coords": [
+            47.9583,
+            2.0151
+        ],
+        "size": 100
+    },
+    {
+        "name": "Gerardmer",
+        "coords": [
+            48.0701,
+            6.8773
+        ],
+        "size": 100
+    }
+]
